@@ -1,0 +1,39 @@
+{
+    "app.welcome": "Hello, I'm",
+    "header.career":"React Js Frontend Developer",
+    "header.scroll": "Scroll Down",
+    "cta.cv": "Download CV (English)",
+    "cta.talk": "Let's Talk",
+    
+    "about.know":"Get To Know",
+    "about.me": "About Me",
+    "about.experience": "Experience",
+    "about.expyear": "2+ Years Working",
+    "about.personal.pro": "Personal Projects",
+    "about.personal.proyear":"5+ Completed",
+    "about.desc": "I am a Web Developer passionate about technology, I have 2 years of experience in the world of development. I specialize in the web part with React Js (Using libraries like Redux). I have been working on projects with Node JS with Express for about half a year, with less experience in this technology, but always open to learning. I like to work in a team and with the ability to adapt to the work environment.",
+    
+    "exp.sub":"What Skills I have?",
+    "exp.title": "My Experience",
+    
+    "exp.front":"Frontend Development",
+    "exp.front.skill": "{skill}",
+    "exp.front.level": "{levelEN}",
+
+    "exp.back":"Backend Development",
+    "exp.back.skill": "{skill}",
+    "exp.back.level": "{levelEN}",
+
+    "port.sub" : "My Recent Works",
+    "port.title": "Portfolio",
+
+    "contact.send": "Send A Message",
+    "foot.home" : "Home",
+    "foot.about": "About",
+    "foot.exp": "Experience",
+    "foot.port": "Portfolio",
+    "foot.contact": "Contact"
+
+
+
+}

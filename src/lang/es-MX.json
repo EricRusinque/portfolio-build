@@ -1,0 +1,41 @@
+
+{
+    "app.welcome": "Hola, yo soy",
+    "header.career":"Desarrollador React Js",
+    "header.scroll": "Desplazar Hacia Abajo",
+    "cta.cv": "Descargar Hoja de Vida (Español)",
+    "cta.talk": "Vamos a Hablar",
+
+
+    "about.know":"Conocer",
+    "about.me": "Acerca De Mi",
+    "about.experience": "Experiencia",
+    "about.expyear": "2+ Años de experiencia",
+    "about.personal.pro": "Proyectos Personales",
+    "about.personal.proyear":"5+ Completados",
+    "about.desc": "Soy un Desarrollador Web apasionado por la tecnología, cuento con 2 años de experiencia en el mundo del desarrollo. Me especializo en la web part con React Js (Usando librerías como Redux). Llevo cerca de medio año trabajando en proyectos con Node JS con Express, con menos experiencia en esta tecnología, pero siempre abierto a aprender. Me gusta trabajar en equipo y con capacidad de adaptación al ambiente laboral.",
+
+
+    "exp.sub":"¿Que Habilidades Tengo?",
+    "exp.title": "Mi Experiencia",
+    
+    "exp.front":"Desarrollador Frontend",
+    "exp.front.skill": "{skill}",
+    "exp.front.level": "{levelES}",
+
+    "exp.back":"Desarrollador Backend",
+    "exp.back.skill": "{skill}",
+    "exp.back.level": "{levelES}",
+
+    "port.sub" : "Mis Trabajos Recientes",
+    "port.title": "Portafolio",
+    
+    "contact.send": "Enviar Un Mensaje",
+
+    "foot.home" : "Casa",
+    "foot.about": "Acerca De",
+    "foot.exp": "Experiencia",
+    "foot.port": "Portafolio",
+    "foot.contact": "Contactar"
+
+}

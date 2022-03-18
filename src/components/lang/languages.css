@@ -1,0 +1,21 @@
+.languages__container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 1rem;
+    position: absolute;
+    top: 1rem;
+}
+.languages__container button {
+    width: 8%;
+    cursor: pointer;
+    background: transparent;
+    color: white;
+  
+}
+.languages__container button img {
+    border-radius: 0.1rem   ;
+}
+.us__language {
+    height: 100%;
+}
