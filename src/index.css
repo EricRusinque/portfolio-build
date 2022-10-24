@@ -53,21 +53,9 @@ body {
     line-height: 1.7;
     background: linear-gradient(-45deg, #1a1919, #1d1b1b, #0a0909, #000000);
     background-size: 500% 500%;
-    animation: gradient 9s ease infinite;
     height: 200vh;
     }
-    
-    @keyframes gradient {
-    0% {
-    background-position: 0% 50%;
-    }
-    50% {
-    background-position: 100% 50%;
-    }
-    100% {
-    background-position: 0% 50%;
-    }
-    }
+
 /* ============== GENERAL STYLES */
 
 .container {
